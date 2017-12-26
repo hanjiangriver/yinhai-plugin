@@ -1,11 +1,11 @@
 # yinhai-plugin
 ## 自定义插件
-              `继承`了AbstractMojo类<br>
+              继承了AbstractMojo类<br>
               实现了统计项目里面java文件的数目
 
 
-## '用法'
-### 1.在maven项目的pom的文件里添加如下配置
+## 用法
+### 1.在`maven`项目的`pom`的文件里添加如下配置
 <build>
        <plugins>
            <plugin>
