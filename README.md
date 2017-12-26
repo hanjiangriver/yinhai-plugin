@@ -1,6 +1,6 @@
 # yinhai-plugin
 ## 自定义插件
-              继承了AbstractMojo类<br>
+              `继承`了AbstractMojo类<br>
               实现了统计项目里面java文件的数目
 
 
