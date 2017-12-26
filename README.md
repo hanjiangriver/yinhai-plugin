@@ -6,6 +6,7 @@
 
 ## 用法
 ### 1.在`maven`项目的`pom`的文件里添加如下配置
+```
 <build>
        <plugins>
            <plugin>
@@ -31,7 +32,7 @@
            </plugin>
        </plugins>
     </build>
-
+```
 
 ## ps:注意几点 
  * 1.插件要挂到项目的某个阶段（phase）中 本事例是compile阶段<br>
